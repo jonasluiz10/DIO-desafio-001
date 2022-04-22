@@ -1,2 +1,2 @@
-# DIO-desafio-github-001
-primeiro desafio do bootcamp Carrefour
+# DIO
+repositório para anotações e divulgações de resultados sobre os cursos da DIO
