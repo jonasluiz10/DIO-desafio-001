@@ -1,2 +1,2 @@
-# DIO
-repositório para anotações e divulgações de resultados sobre os cursos da DIO
+# CERTICADOS
+Repositório para  divulgações de certificados dos cursos concluidos na área de T.I
